@@ -1,6 +1,8 @@
 # IsItSustainable 
 A website on which a user can lookup the sustainability of any organization. And if they want to, submit data which can add to their overall sustainability report. 
 
+![Website screenshot](./resources/screenshot.png)
+
 ## i. Core Concepts
 
 ### a. Crowd controlled
@@ -96,7 +98,7 @@ Replace the placeholders by an URL to your database and specify the username and
 *In a seperate CLI in directory 'frontend'* 
 
 Install node-js dependecies
-`npm install -g @angular/cli` 
+`npm install` 
 
 Compile and host Angular server (on default port)
 `ng serve`
